@@ -1,0 +1,12 @@
+﻿{
+    "ConnectionStrings": {
+        "defaultConnection": "Data Source=localhost;Initial Catalog=BdJompy;User ID=codevsys;Password=codevsys"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning",
+            "Microsoft.Hosting.Lifetime": "Information"
+        }
+    }
+}

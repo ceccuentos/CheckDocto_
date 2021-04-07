@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{7A9A56D6-E8AA-4BE4-8627-73FD8F730AAB}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Program.cs" Line="20" Column="1" IsPinned="True" />
+      <File FileName="Controllers/CheckDoctoController.cs" IsPinned="True" />
+      <File FileName="Data/CheckDoctoRepository.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="Controllers/CuentasController.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Models/UserInfo.cs" />
+      <File FileName="Models/UserToken.cs" />
+      <File FileName="Models/KeyDocto.cs" />
+      <File FileName="Cecappsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CheckDocto" expanded="True" selected="True">
+            <Node name="CheckDocto" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CheckDocto PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

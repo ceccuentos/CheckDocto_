@@ -1,0 +1,16 @@
+﻿{
+  "ConnectionStrings": {
+    "defaultConnection": "Data Source=localhost;Initial Catalog=BdJompy;User ID=codevsys;Password=codevsys"
+  },
+  "JWT": {
+    "Key": "fc1d754d-4171-437a-8541-c28d56cd745d",
+    "ExpirationYears": 2
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  }
+}
